@@ -5,6 +5,8 @@ My [veewee](https://github.com/jedi4ever/veewee) definitions for CentOS 6 for x8
 
 You need veewee installed to work with these definitions, [this site](http://cbednarski.com/articles/veewee/) helped me a lot!
 
+Installation
+======
 Step 1: Checkout the definitions
 
     $ git clone git@github.com:beeman/centos-6-amd64.git
